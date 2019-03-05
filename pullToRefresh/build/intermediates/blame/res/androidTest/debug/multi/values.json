@@ -1,0 +1,273 @@
+[
+    {
+        "outputFile": "E:\\Android_cg\\new_branch_cg_share\\pullToRefresh\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1660,
+                    "endColumn": 64,
+                    "endOffset": 1720
+                },
+                "from": {
+                    "file": "E:\\Android_cg\\new_branch_cg_share\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1660,
+                        "endColumn": 64,
+                        "endOffset": 1720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1725,
+                    "endColumn": 63,
+                    "endOffset": 1784
+                },
+                "from": {
+                    "file": "E:\\Android_cg\\new_branch_cg_share\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1725,
+                        "endColumn": 63,
+                        "endOffset": 1784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1789,
+                    "endColumn": 54,
+                    "endOffset": 1839
+                },
+                "from": {
+                    "file": "E:\\Android_cg\\new_branch_cg_share\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1789,
+                        "endColumn": 54,
+                        "endOffset": 1839
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1844,
+                    "endColumn": 56,
+                    "endOffset": 1896
+                },
+                "from": {
+                    "file": "E:\\Android_cg\\new_branch_cg_share\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1844,
+                        "endColumn": 56,
+                        "endOffset": 1896
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1901,
+                    "endColumn": 54,
+                    "endOffset": 1951
+                },
+                "from": {
+                    "file": "E:\\Android_cg\\new_branch_cg_share\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1901,
+                        "endColumn": 54,
+                        "endOffset": 1951
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1956,
+                    "endColumn": 37,
+                    "endOffset": 1989
+                },
+                "from": {
+                    "file": "E:\\Android_cg\\new_branch_cg_share\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1956,
+                        "endColumn": 37,
+                        "endOffset": 1989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1994,
+                    "endColumn": 39,
+                    "endOffset": 2029
+                },
+                "from": {
+                    "file": "E:\\Android_cg\\new_branch_cg_share\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1994,
+                        "endColumn": 39,
+                        "endOffset": 2029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2034,
+                    "endColumn": 36,
+                    "endOffset": 2066
+                },
+                "from": {
+                    "file": "E:\\Android_cg\\new_branch_cg_share\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2034,
+                        "endColumn": 36,
+                        "endOffset": 2066
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2071,
+                    "endColumn": 101,
+                    "endOffset": 2168
+                },
+                "from": {
+                    "file": "E:\\Android_cg\\new_branch_cg_share\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2071,
+                        "endColumn": 101,
+                        "endOffset": 2168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2173,
+                    "endColumn": 113,
+                    "endOffset": 2282
+                },
+                "from": {
+                    "file": "E:\\Android_cg\\new_branch_cg_share\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2173,
+                        "endColumn": 113,
+                        "endOffset": 2282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2287,
+                    "endColumn": 107,
+                    "endOffset": 2390
+                },
+                "from": {
+                    "file": "E:\\Android_cg\\new_branch_cg_share\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2287,
+                        "endColumn": 107,
+                        "endOffset": 2390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2395,
+                    "endColumn": 71,
+                    "endOffset": 2462
+                },
+                "from": {
+                    "file": "E:\\Android_cg\\new_branch_cg_share\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2395,
+                        "endColumn": 71,
+                        "endOffset": 2462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2467,
+                    "endColumn": 69,
+                    "endOffset": 2532
+                },
+                "from": {
+                    "file": "E:\\Android_cg\\new_branch_cg_share\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2467,
+                        "endColumn": 69,
+                        "endOffset": 2532
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2537,
+                    "endColumn": 77,
+                    "endOffset": 2610
+                },
+                "from": {
+                    "file": "E:\\Android_cg\\new_branch_cg_share\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2537,
+                        "endColumn": 77,
+                        "endOffset": 2610
+                    }
+                }
+            }
+        ]
+    }
+]

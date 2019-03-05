@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@android:color/white">
+
+    <RelativeLayout style="@style/title_container" >
+
+        <TextView
+            android:id="@+id/invest_back"
+            style="@style/title_text_back" />
+
+        <TextView
+            style="@style/title_text_body"
+            android:text="红包" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tv_usable"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="可使用"
+            android:textColor="@color/text_gray"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_unused"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="已失效"
+            android:textColor="@color/text_gray"
+            android:textSize="16sp" />
+        
+    </LinearLayout>
+    <!-- 指示器 -->
+
+    <View
+        android:id="@+id/total_indicate_line"
+        android:layout_width="55dp"
+        android:layout_height="2dp"
+        android:background="@color/global_yellowcolor"
+        android:visibility="invisible" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/global_yellowcolor" />
+
+    <com.fanfanlicai.view.HorizontalViewPager
+        android:id="@+id/vp_total_container"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+</LinearLayout>

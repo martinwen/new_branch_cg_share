@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/global_gray" 
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/rl_pay"
+        style="@style/title_container" >
+
+        <TextView
+            android:id="@+id/pay_back"
+            style="@style/title_text_back" />
+
+        <TextView
+            style="@style/title_text_body"
+            android:text="设置交易密码" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tv_mima"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_below="@id/rl_pay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="请输入当前6位数字交易密码" />
+
+
+    <com.fanfanlicai.view.password.GridPasswordView
+                android:id="@+id/gpv_length"
+                android:layout_below="@id/tv_mima"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_margin="20dp"
+                
+                 />
+</RelativeLayout>

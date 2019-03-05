@@ -1,0 +1,1258 @@
+[
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fanwan_detail.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_fanwan_detail.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_fantongyuyuebefore.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\dialog_fantongyuyuebefore.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\vip_common.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\vip_common.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cashdetail.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_cashdetail.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vipcorelogin.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_vipcorelogin.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_zhanghuyue.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_zhanghuyue.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_watch_picture_activity.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_watch_picture_activity.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\scaner.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\scaner.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_youxiangou.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_youxiangou.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_action_bar_custom_view.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_action_bar_custom_view.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hetong.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_hetong.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_contact.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_jiaxipiao_usable.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_jiaxipiao_usable.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_webview_layout.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\cn.jiguang.sdk\\jpush\\3.0.0\\res\\layout\\jpush_webview_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fantonginvest.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\fragment_fantonginvest.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_picker_photofolder_item.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_picker_photofolder_item.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\pager_jiaxipiaofh.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\pager_jiaxipiaofh.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guanfang.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_guanfang.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jiaxipiao.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_jiaxipiao.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fanwanliushui.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\fragment_fanwanliushui.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\rv_item_city.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\rv_item_city.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fanwaninvest.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\fragment_fanwaninvest.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_settingout.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\dialog_settingout.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_picker_image_folder_activity.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_picker_image_folder_activity.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fanwanshouyi.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\fragment_fanwanshouyi.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_youxiangou_usable.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_youxiangou_usable.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_include_divider.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_include_divider.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_fanheshuhui.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\dialog_fanheshuhui.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_phone.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_phone.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_cepingchanceover.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\dialog_cepingchanceover.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cgbankchangesuccess.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_cgbankchangesuccess.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_usehongbao.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_usehongbao.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_action_bar_right_picker_preview.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_action_bar_right_picker_preview.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_easy_alert_dialog_default_layout.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_easy_alert_dialog_default_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_emoji_layout.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_emoji_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fanwanbuy.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_fanwanbuy.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notice.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_notice.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\textview.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\textview.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_registerok.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\dialog_registerok.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_message_activity.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_message_activity.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_invitefri.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_invitefri.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_xiangmu.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\fragment_xiangmu.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\new_branch_cg_share\\pullToRefresh\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vipnormallogin.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_vipnormallogin.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zhanghuliushui.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_zhanghuliushui.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zongzichan.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_zongzichan.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gesture.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_gesture.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_emoji_item.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_emoji_item.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_forgetemail.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\fragment_forgetemail.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_directinvest.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\fragment_directinvest.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zhan_nei_xin.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_zhan_nei_xin.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fanheshouyi.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\fragment_fanheshouyi.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_gesture.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\dialog_gesture.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_emailhasbind.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_emailhasbind.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\rv_letter_header.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\rv_letter_header.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cgbankchange.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_cgbankchange.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_title_bar.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_title_bar.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_jiaxipiao_unused.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_jiaxipiao_unused.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_huikuan.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_huikuan.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jiesuan.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_jiesuan.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_picker_image_preview_activity.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_picker_image_preview_activity.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\pager_invest_fanhe.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\pager_invest_fanhe.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_shuhui.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_shuhui.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zongshouyi.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_zongshouyi.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cgbanknotqianyue.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_cgbanknotqianyue.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_xiangmu.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_xiangmu.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_custom_dialog_list_item.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_custom_dialog_list_item.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_pipei.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\dialog_pipei.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_fantongyuyue.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\dialog_fantongyuyue.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_fantong.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\dialog_fantong.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\pager_jiaxipiaofw.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\pager_jiaxipiaofw.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\new_branch_cg_share\\pullToRefresh\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_ceping.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\dialog_ceping.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fanwanbuy_new.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_fanwanbuy_new.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xiangmudetail.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_xiangmudetail.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_cgbanklist.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_cgbanklist.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_content.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\fragment_content.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_udsystem.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_udsystem.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_rewarddetail.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_rewarddetail.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_introduce.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_introduce.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_fanhe.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_fanhe.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_actions_item_layout.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_actions_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_gesturecount.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\dialog_gesturecount.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting_for_ce_ping.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_setting_for_ce_ping.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dafan.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_dafan.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_fanwan.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_fanwan.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_allmoney.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_allmoney.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_message_activity_actions_layout.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_message_activity_actions_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_message_item_thumb_progress_bar_text.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_message_item_thumb_progress_bar_text.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_common_dialog_unicorn.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_common_dialog_unicorn.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\include_viewpager.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\include_viewpager.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_new_message_tip_layout.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_new_message_tip_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_cgbindcard.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\dialog_cgbindcard.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_preview_image_layout_multi_touch.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_preview_image_layout_multi_touch.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_hongbao_unusable.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_hongbao_unusable.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_usefanpiao.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_usefanpiao.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\item_image_view.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\item_image_view.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_allmoney.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_allmoney.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zuorishouyi.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_zuorishouyi.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xiangmu.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_xiangmu.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_message_item_audio.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_message_item_audio.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\progress_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_preview_image_from_camera_activity.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_preview_image_from_camera_activity.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_projectinfo.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\fragment_projectinfo.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gesturecreate.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_gesturecreate.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_yuyue.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\dialog_yuyue.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chongzhi.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_chongzhi.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\item_directinvest_detail.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\item_directinvest_detail.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forget_password.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_forget_password.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fantongliushui.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_fantongliushui.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_interest.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\fragment_interest.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_auto_matching.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\dialog_auto_matching.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_jpush.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\dialog_jpush.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fanwanliushui.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_fanwanliushui.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fanhebuysuccess.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_fanhebuysuccess.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_cashphone.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\fragment_cashphone.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_city.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_city.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_bank.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_bank.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_cashemail.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\fragment_cashemail.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_tixianpiao_usable.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_tixianpiao_usable.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pingtaishuju.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_pingtaishuju.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\gridpasswordview.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\gridpasswordview.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\view_dialog_capture.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\view_dialog_capture.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_email.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\dialog_email.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\popwin_rateinfo.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\popwin_rateinfo.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bidlist.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\fragment_bidlist.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_jiaxipiaomsg.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\dialog_jiaxipiaomsg.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\act_dialog_pic.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\act_dialog_pic.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_changefailure.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\dialog_changefailure.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shuhui.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_shuhui.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cash.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_cash.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fengkong.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_fengkong.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_email.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_email.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_yzm.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\dialog_yzm.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_tixianpiao_unusable.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_tixianpiao_unusable.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cgbankchangeforphoto.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_cgbankchangeforphoto.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_message_activity_bottom_layout.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_message_activity_bottom_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_useable.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\fragment_useable.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_easy_alert_dialog_bottom_button.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_easy_alert_dialog_bottom_button.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_homelogin.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_homelogin.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fanherate.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_fanherate.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_easy_alert_dialog_title.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_easy_alert_dialog_title.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xieyi.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_xieyi.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_hongbao_fw.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_hongbao_fw.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bannerweb.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_bannerweb.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_loginemail.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\fragment_loginemail.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_directinvest_detail.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_directinvest_detail.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_province.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_province.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tixianpiao.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_tixianpiao.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fanpiao.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_fanpiao.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_message_item_rich_text.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_message_item_rich_text.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_jiaxipiao_fwunused.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_jiaxipiao_fwunused.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_investday.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_investday.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\pager_my.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\pager_my.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cgbankqianyue.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_cgbankqianyue.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cgbankqianyueresult.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_cgbankqianyueresult.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_image.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_image.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fanhebuyyxg.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_fanhebuyyxg.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_hongbao_usable.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_hongbao_usable.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fanheliushui.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_fanheliushui.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_normal.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\dialog_normal.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_update.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\dialog_update.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fanhebuy.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_fanhebuy.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_jiaxipiao_using.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_jiaxipiao_using.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_address.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_address.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bid_detail.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_bid_detail.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_forgetphone.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\fragment_forgetphone.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_bidinfo.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_bidinfo.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_screen_lock_layout.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_screen_lock_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_guanfang.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\fragment_guanfang.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_popwin_layout.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\cn.jiguang.sdk\\jpush\\3.0.0\\res\\layout\\jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_homeregister.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_homeregister.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_cgsigncard.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\dialog_cgsigncard.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_action_bar_right_clickable_tv.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_action_bar_right_clickable_tv.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_message_item_unknown.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_message_item_unknown.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cgbanknotbind.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_cgbanknotbind.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fantongbuy.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_fantongbuy.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_guanfang.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_guanfang.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_message_item_evaluation.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_message_item_evaluation.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cgbanklist.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_cgbanklist.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pay.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_pay.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_watch_media_download_progress_layout.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_watch_media_download_progress_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_youxiangou_unusable.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_youxiangou_unusable.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chongzhisuccess.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_chongzhisuccess.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\include_pickerview_topbar.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\include_pickerview_topbar.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_phone_change.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_phone_change.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\layout_basepickerview.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\layout_basepickerview.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_hashongbaoorjiaxipiao.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\dialog_hashongbaoorjiaxipiao.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\pager_base.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\pager_base.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_share_dqg_fanju.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\fragment_share_dqg_fanju.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_evaluation_dialog.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_evaluation_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\pager_money.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\pager_money.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\item_pic_show.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\item_pic_show.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tupian.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_tupian.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_directinvest_liushui.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_directinvest_liushui.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_easy_alert_dialog_with_listview.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_easy_alert_dialog_with_listview.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_picker_images_fragment.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_picker_images_fragment.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_message_activity_text_layout.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_message_activity_text_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_jiaxipiao.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\dialog_jiaxipiao.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fantongquestion.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_fantongquestion.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_picker_album_activity.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_picker_album_activity.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_message_fragment.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_message_fragment.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_loginphone.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\fragment_loginphone.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cash_fix.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_cash_fix.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_biddetail.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_biddetail.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_message.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\tigerplay.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\tigerplay.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contract_temp.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\fragment_contract_temp.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\pager_invest_fantong.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\pager_invest_fantong.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_evaluation_layout.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_evaluation_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pop.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_pop.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\pager_find.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\pager_find.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cgbindbank.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_cgbindbank.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fanwanrate.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_fanwanrate.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login_fix.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_login_fix.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_invest.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_invest.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hongbao.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_hongbao.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_picker_photo_grid_item.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_picker_photo_grid_item.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gesturelogin.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_gesturelogin.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vipnotlogin.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_vipnotlogin.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\item_repay_ment.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\item_repay_ment.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\pager_invest_fanwan.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\pager_invest_fanwan.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_invitefrienddetail.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_invitefrienddetail.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fantongshouyi.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\fragment_fantongshouyi.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_direct_invest.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_direct_invest.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_fwbuy_info.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\dialog_fwbuy_info.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_title.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\calendar_title.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bidpicinfo.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\fragment_bidpicinfo.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\divider.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\divider.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bid_baseinfo.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\fragment_bid_baseinfo.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_time.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\pickerview_time.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jiangjinliushui.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_jiangjinliushui.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_viphighcorelogin.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_viphighcorelogin.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_leijishouyi.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_leijishouyi.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_get1.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\dialog_get1.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_noticedetail.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_noticedetail.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_notice.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_notice.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fanheinvest.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\fragment_fanheinvest.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fanhecash.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_fanhecash.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cgauthentication.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_cgauthentication.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_message_item_text.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_message_item_text.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_banklist.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_banklist.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_message_item_name_layout.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_message_item_name_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_cepingagain.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\dialog_cepingagain.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_message_item_notification.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_message_item_notification.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_webview.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_buyshenqing.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_buyshenqing.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_fanwanliushui.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_fanwanliushui.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_listview_refresh.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_listview_refresh.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fantongrate.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_fantongrate.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_fantong.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_fantong.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fantongyuyue.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\activity_fantongyuyue.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_fragment_translate.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_fragment_translate.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fanwanshuhui.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\fragment_fanwanshuhui.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_pick_image_activity.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_pick_image_activity.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_message_item.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_message_item.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\ysf_message_item_picture.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\layout\\ysf_message_item_picture.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\items_jiaxipiao_fwusable.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\items_jiaxipiao_fwusable.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\pager_invest.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\pager_invest.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_fanju.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\dialog_fanju.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_help.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\layout\\fragment_help.xml"
+    }
+]

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/global_bgcolor"
+    android:orientation="vertical">
+
+    <RelativeLayout style="@style/title_container">
+
+        <TextView
+            android:id="@+id/total_back"
+            style="@style/title_text_back" />
+
+        <TextView
+            style="@style/title_text_body"
+            android:text="总资产" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@android:color/white">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="20dp"
+            android:text="总资产"
+            android:textColor="@color/global_yellowcolor"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_zongzichan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:layout_marginRight="20dp"
+            android:text="0.00元"
+            android:textColor="@color/global_yellowcolor"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/global_yellowcolor" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/global_gray"
+        android:gravity="center_vertical"
+        android:paddingLeft="20dp"
+        android:text="包含："
+        android:textColor="@color/text_gray"
+        android:textSize="14sp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/line_width" />
+
+    <RelativeLayout
+        android:id="@+id/rl_zhanghu"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@android:color/white">
+
+        <TextView
+            style="@style/contact_item"
+            android:drawableLeft="@drawable/zhanghuyue"
+            android:gravity="center_vertical"
+            android:text="账户余额"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_zhanghuyue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:drawablePadding="10dp"
+            android:drawableRight="@drawable/arrow"
+            android:paddingRight="12dp"
+            android:text="0.00元"
+            android:textColor="@color/global_yellowcolor"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/line_width" />
+
+    <RelativeLayout
+        android:id="@+id/rl_fanwan"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@android:color/white">
+
+        <TextView
+            style="@style/contact_item"
+            android:drawableLeft="@drawable/fanwanzichan"
+            android:gravity="center_vertical"
+            android:text="饭碗资产"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_fanwanzichan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:drawablePadding="10dp"
+            android:drawableRight="@drawable/arrow"
+            android:paddingRight="12dp"
+            android:text="0.00元"
+            android:textColor="@color/global_yellowcolor"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/line_width" />
+
+    <RelativeLayout
+        android:id="@+id/rl_fantong"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@android:color/white">
+
+        <TextView
+            style="@style/contact_item"
+            android:drawableLeft="@drawable/fantongzichan"
+            android:gravity="center_vertical"
+            android:text="饭桶资产"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_fantongzichan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:drawablePadding="10dp"
+            android:drawableRight="@drawable/arrow"
+            android:paddingRight="12dp"
+            android:text="0.00元"
+            android:textColor="@color/global_yellowcolor"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/line_width" />
+
+    <RelativeLayout
+        android:id="@+id/rl_fanhe"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@android:color/white">
+
+        <TextView
+            style="@style/contact_item"
+            android:drawableLeft="@drawable/fanhezichan"
+            android:gravity="center_vertical"
+            android:text="饭盒资产"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_fanhezichan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:drawablePadding="10dp"
+            android:drawableRight="@drawable/arrow"
+            android:paddingRight="12dp"
+            android:text="0.00元"
+            android:textColor="@color/global_yellowcolor"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/line_width" />
+
+    <RelativeLayout
+        android:id="@+id/rl_jiangjin"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@android:color/white">
+
+        <TextView
+            style="@style/contact_item"
+            android:drawableLeft="@drawable/jiangjinyue"
+            android:gravity="center_vertical"
+            android:text="奖金余额"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_jiangjinyue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:drawablePadding="10dp"
+            android:drawableRight="@drawable/arrow"
+            android:paddingRight="12dp"
+            android:text="0.00元"
+            android:textColor="@color/global_yellowcolor"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/line_width" />
+
+    <RelativeLayout
+        android:id="@+id/rl_shuhui"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@android:color/white">
+
+        <TextView
+            style="@style/contact_item"
+            android:drawableLeft="@drawable/shuhui"
+            android:text="赎回（回款）中"
+            android:textSize="14sp"
+            android:gravity="center_vertical"/>
+
+        <TextView
+            android:id="@+id/tv_shuhui"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:drawablePadding="10dp"
+            android:drawableRight="@drawable/arrow"
+            android:paddingRight="12dp"
+            android:text="0.00元"
+            android:textColor="@color/global_yellowcolor"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/line_width" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/line_width" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@android:color/white">
+
+        <TextView
+            style="@style/contact_item"
+            android:drawableLeft="@drawable/tixianzhong"
+            android:gravity="center_vertical"
+            android:text="提现中"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_tixian"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:paddingRight="30dp"
+            android:text="0.00元"
+            android:textColor="@color/global_yellowcolor"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/line_width" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@android:color/white">
+
+        <TextView
+            style="@style/contact_item"
+            android:drawableLeft="@drawable/fanwandaishoushouyi"
+            android:gravity="center_vertical"
+            android:text="饭碗待收收益"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_daishou"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:paddingRight="30dp"
+            android:text="0.00元"
+            android:textColor="@color/global_yellowcolor"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/line_width" />
+
+</LinearLayout>

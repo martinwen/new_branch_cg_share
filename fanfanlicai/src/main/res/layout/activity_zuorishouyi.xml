@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/global_gray"
+    android:orientation="vertical" >
+
+    <RelativeLayout style="@style/title_container" >
+
+        <TextView
+            android:id="@+id/get_back"
+            style="@style/title_text_back" />
+
+        <TextView
+            style="@style/title_text_body"
+            android:text="昨日收益" />
+    </RelativeLayout>
+
+    <ImageView 
+        android:layout_width="match_parent"
+    	android:layout_height="wrap_content"
+		android:scaleType="fitXY"
+    	android:src="@drawable/chifan"/>
+    <TextView 
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:padding="15dp"
+    	android:text="昨日收益是指您饭盒、饭碗、饭桶昨日收益的总和，但饭碗的收益需要项目到期时才会到账哦。"
+    	android:textSize="13sp"
+    	android:textColor="@color/text_black"
+    	android:background="@android:color/white"/>
+</LinearLayout>

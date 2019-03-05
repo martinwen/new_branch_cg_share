@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/global_red"
+    android:orientation="vertical" >
+
+    <RelativeLayout style="@style/title_container" >
+
+        <TextView
+            android:id="@+id/setting_back"
+            style="@style/title_text_back" />
+
+        <TextView
+            style="@style/title_text_body"
+            android:text="设置" />
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/line_width"
+            android:visibility="gone"/>
+
+        <RelativeLayout
+            android:id="@+id/rl_phone"
+            style="@style/settingitem_container"
+            android:background="@drawable/setting_item_selector"
+            android:visibility="gone">
+
+            <TextView
+                style="@style/setting_text_left"
+                android:text="手机号" />
+
+            <TextView
+                style="@style/setting_text_right"
+                android:text="变更" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/line_width" />
+        <RelativeLayout
+            android:id="@+id/rl_mail"
+            style="@style/settingitem_container"
+            android:background="@drawable/setting_item_selector" >
+
+            <TextView
+                style="@style/setting_text_left"
+                android:text="绑定邮箱" />
+
+            <TextView
+                android:id="@+id/tv_isBind"
+                style="@style/setting_text_right"
+                android:text="未绑定" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/line_width" />
+
+        <ImageView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/line_width" />
+
+        <RelativeLayout
+            android:id="@+id/rl_login"
+            style="@style/settingitem_container"
+            android:background="@drawable/setting_item_selector" >
+
+            <TextView
+                style="@style/setting_text_left"
+                android:text="登录密码" />
+
+            <TextView
+                style="@style/setting_text_right"
+                android:text="设置" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/line_width" />
+
+        <RelativeLayout
+            android:id="@+id/rl_pay"
+            style="@style/settingitem_container"
+            android:background="@drawable/setting_item_selector" >
+
+            <TextView
+                style="@style/setting_text_left"
+                android:text="交易密码" />
+
+            <TextView
+                style="@style/setting_text_right"
+                android:text="设置" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/line_width" />
+
+        <RelativeLayout
+            android:id="@+id/rl_gesture"
+            style="@style/settingitem_container"
+            android:background="@drawable/setting_item_selector" >
+
+            <TextView
+                style="@style/setting_text_left"
+                android:text="手势密码" />
+
+            <TextView
+                style="@style/setting_text_right"
+                android:text="设置" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/line_width" />
+        
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/line_width" />
+
+        <RelativeLayout
+            android:id="@+id/rl_address"
+            style="@style/settingitem_container"
+            android:background="@drawable/setting_item_selector" >
+
+            <TextView
+                style="@style/setting_text_left"
+                android:text="联系地址" />
+
+            <TextView
+                style="@style/setting_text_right"
+                android:text="设置" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/line_width" />
+        <RelativeLayout
+            android:id="@+id/rl_ceping"
+            style="@style/settingitem_container"
+            android:background="@drawable/setting_item_selector" >
+
+            <TextView
+                style="@style/setting_text_left"
+                android:text="风险评测" />
+
+            <TextView
+                style="@style/setting_text_right"
+                android:text="评测" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/line_width" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/line_width" />
+
+        <RelativeLayout
+            android:id="@+id/rl_message"
+            style="@style/settingitem_container"
+            android:background="@drawable/setting_item_selector" >
+
+            <ImageView
+                android:id="@+id/iv_toggle"
+                style="@style/setting_image_right" />
+
+            <TextView
+                style="@style/setting_text_left"
+                android:text="接收推送消息" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/line_width" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/line_width" />
+
+        <TextView
+            android:id="@+id/setting_out"
+            style="@style/settingitem_container"
+            android:background="@drawable/setting_item_selector"
+            android:gravity="center"
+            android:text="退出登录"
+            android:textColor="@color/text_black"
+            android:textSize="15sp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/line_width" />
+    </LinearLayout>
+
+</LinearLayout>

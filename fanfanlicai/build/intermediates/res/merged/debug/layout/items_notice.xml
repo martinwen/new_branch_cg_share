@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:padding="10dp"
+    android:background="@android:color/white"
+     >
+    
+    <TextView
+        android:id="@+id/notice_name" 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="【活动公告】"
+        android:textColor="@color/global_yellowcolor"
+        android:textSize="13sp"/>
+    <TextView
+        android:id="@+id/notice_time" 
+        android:layout_toRightOf="@id/notice_name"
+        android:layout_marginLeft="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2016-3-20 23:00:00"
+        android:textColor="@color/text_black"
+        android:textSize="12sp"/>
+    <TextView
+        android:id="@+id/notice_title" 
+        android:layout_below="@id/notice_time"
+        android:layout_marginLeft="6dp"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="爱钱帮新年送红包，出借送健康"
+        android:textColor="@color/text_black"
+        android:textSize="15sp"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/arrow" />
+
+</RelativeLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fanfanlicai/fanfanlicai.iml" filepath="$PROJECT_DIR$/fanfanlicai/fanfanlicai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryIndicator/libraryIndicator.iml" filepath="$PROJECT_DIR$/libraryIndicator/libraryIndicator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new_branch_cg_share.iml" filepath="$PROJECT_DIR$/new_branch_cg_share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pullToRefresh/pullToRefresh.iml" filepath="$PROJECT_DIR$/pullToRefresh/pullToRefresh.iml" />
+    </modules>
+  </component>
+</project>

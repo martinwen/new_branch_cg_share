@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/global_red"
+    android:orientation="vertical" >
+
+    <RelativeLayout style="@style/title_container" >
+
+        <TextView
+            android:id="@+id/get_back"
+            style="@style/title_text_back" />
+
+        <TextView
+            style="@style/title_text_body"
+            android:text="买入申请提交" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:src="@drawable/tishirenwu" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="温馨提示"
+            android:textColor="@color/global_yellowcolor"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/line_width" />
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@android:color/white" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="14sp"
+            android:drawableLeft="@drawable/tishiyuan"
+            android:drawablePadding="14sp"
+            android:text="我们已经收到您的申请了呢~正在加紧处理中……"
+            android:textColor="@color/text_gray"
+            android:textSize="12sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="14sp"
+            android:drawableLeft="@drawable/tishiyuan"
+            android:drawablePadding="14sp"
+            android:text="交易可能有延迟，请您稍后查看资金变化"
+            android:textColor="@color/text_gray"
+            android:textSize="12sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="14sp"
+            android:drawableLeft="@drawable/tishiyuan"
+            android:drawablePadding="14sp"
+            android:text="若交易未成功，您可以在20分钟后再次尝试减少金额买入哦~"
+            android:textColor="@color/text_gray"
+            android:textSize="12sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="14sp"
+            android:drawableLeft="@drawable/tishiyuan"
+            android:drawablePadding="14sp"
+            android:text="大额买入建议前往电脑端www.fanfanjf.com充值到余额账户后，再来操作买入；"
+            android:textColor="@color/text_gray"
+            android:textSize="12sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="14sp"
+            android:layout_marginBottom="20dp"
+            android:drawableLeft="@drawable/tishiyuan"
+            android:drawablePadding="14sp"
+            android:text="有任何疑问，请联系客服400-009-9855，我们会尽快为您解决~！"
+            android:textColor="@color/text_gray"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+    <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/line_width" />
+</LinearLayout>

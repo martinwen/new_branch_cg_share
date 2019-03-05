@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-1920x1080\\values-1920x1080.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\values-1920x1080\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\values-1920x1080\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\values-1920x1080\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 252,
+                        "endColumn": 52,
+                        "endOffset": 300
+                    }
+                }
+            }
+        ]
+    }
+]

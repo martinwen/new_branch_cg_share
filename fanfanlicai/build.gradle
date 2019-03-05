@@ -1,0 +1,72 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion '26.0.2'
+
+    defaultConfig {
+        applicationId "com.fanfanlicai.fanfanlicai"
+        minSdkVersion 16
+        targetSdkVersion 17
+        ndk {
+            //选择要添加的对应cpu类型的.so库。
+            abiFilters 'armeabi', 'armeabi-v7a', 'armeabi-v8a','x86', 'x86_64', 'mips', 'mips64'
+            // 还可以添加 'x86', 'x86_64', 'mips', 'mips64'
+        }
+
+        manifestPlaceholders = [
+                JPUSH_PKGNAME : applicationId,
+                JPUSH_APPKEY : "d005781824bcf7f298d9e454", //JPush上注册的包名对应的appkey.
+                JPUSH_CHANNEL : "developer-default", //暂时填写默认值即可.
+        ]
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    lintOptions {
+        abortOnError false
+        checkReleaseBuilds false
+        // 防止在发布的时候出现因MissingTranslation导致Build Failed!
+        disable 'MissingTranslation'
+    }
+}
+
+dependencies {
+    compile project(':libraryIndicator')
+    compile project(':pullToRefresh')
+    compile 'cn.jiguang.sdk:jpush:3.0.0'  // 此处以JPush 3.0.0 版本为例。
+    compile 'cn.jiguang.sdk:jcore:1.0.0'  // 此处以JCore 1.0.0 版本为例。
+    compile 'com.qiyukf.unicorn:unicorn:2.9.0'
+    compile 'com.android.support:support-v4:23.4.0'
+    compile 'com.google.code.gson:gson:2.2.1'
+    compile files('libs/fastjson-1.1.43.android.jar')
+    compile files('libs/MobCommons-2016.0830.1940.jar')
+    compile files('libs/MobTools-2016.0830.1940.jar')
+    compile files('libs/nineoldandroids-2.4.0.jar')
+    compile files('libs/ShareSDK-Core-2.7.7.jar')
+    compile files('libs/ShareSDK-QQ-2.7.7.jar')
+    compile files('libs/ShareSDK-QZone-2.7.7.jar')
+    compile files('libs/ShareSDK-Wechat-2.7.7.jar')
+    compile files('libs/ShareSDK-Wechat-Core-2.7.7.jar')
+    compile files('libs/ShareSDK-Wechat-Favorite-2.7.7.jar')
+    compile files('libs/ShareSDK-Wechat-Moments-2.7.7.jar')
+    compile files('libs/umeng-analytics-v6.0.1.jar')
+    compile files('libs/universal-image-loader-1.9.4-with-sources.jar')
+    compile files('libs/utdid4all-1.0.4.jar')
+    compile files('libs/volley.jar')
+    compile files('libs/xUtils-2.6.14.jar')
+    compile files('libs/ZxingScanner.jar')
+    compile 'com.google.android.gms:play-services-appindexing:8.4.0'
+    compile 'com.baidu.mobstat:mtj-sdk:latest.integration'
+    //存管相关
+    compile 'com.android.support:design:23.2.1'
+    compile 'com.github.baserecycleradapter:library:1.1.0'
+    compile 'com.github.promeg:tinypinyin:1.0.0' // ~80KB
+    compile 'com.android.support:appcompat-v7:23.2.1'
+    compile 'com.scwang.smartrefresh:SmartRefreshLayout:1.0.4-6'//下拉刷新
+}

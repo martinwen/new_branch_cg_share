@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.fanfanlicai.view.HorizontalViewPager
+        android:layout_width="match_parent"
+        android:id="@+id/vp_content_container"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/line_width" />
+    
+    <RadioGroup
+        android:id="@+id/rg_content_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:padding="4dp"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            style="@style/bottomStyle"
+            android:id="@+id/rb_bottom_money"
+            android:drawableTop="@drawable/bottom_money_selector"
+            android:text="首页" />
+        <RadioButton
+            style="@style/bottomStyle"
+            android:id="@+id/rb_bottom_safe"
+            android:drawableTop="@drawable/bottom_safe_selector"
+            android:text="产品" />
+        <RadioButton
+            style="@style/bottomStyle"
+            android:id="@+id/rb_bottom_find"
+            android:drawableTop="@drawable/bottom_find_selector"
+            android:text="发现" />
+        <RadioButton
+            style="@style/bottomStyle"
+            android:id="@+id/rb_bottom_my"
+            android:drawableTop="@drawable/bottom_my_selector"
+            android:text="我的" />
+    </RadioGroup>
+
+</LinearLayout>

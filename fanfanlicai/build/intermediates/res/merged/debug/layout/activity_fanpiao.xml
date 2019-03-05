@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@android:color/white">
+
+    <RelativeLayout style="@style/title_container" >
+
+        <TextView
+            android:id="@+id/invest_back"
+            style="@style/title_text_back" />
+
+        <TextView
+            style="@style/title_text_body"
+            android:text="饭票" />
+    </RelativeLayout>
+
+    <ImageView 
+        android:id="@+id/iv_jiaxipiao"
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:layout_marginTop="15dp"
+    	android:layout_gravity="center"
+    	android:src="@drawable/jiaxipiaobg"
+    	/>
+    <ImageView 
+        android:id="@+id/iv_tixianpiao"
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:layout_marginTop="15dp"
+    	android:layout_gravity="center"
+    	android:src="@drawable/tixianpiaobg"
+    	/>
+	<ImageView
+        android:id="@+id/iv_hongbao"
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:layout_marginTop="15dp"
+    	android:layout_gravity="center"
+    	android:src="@drawable/hongbaobg"
+    	/>
+	<ImageView
+        android:id="@+id/iv_youxiangou"
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+		android:visibility="gone"
+    	android:layout_marginTop="15dp"
+    	android:layout_gravity="center"
+    	android:src="@drawable/youxiangou"
+    	/>
+
+</LinearLayout>

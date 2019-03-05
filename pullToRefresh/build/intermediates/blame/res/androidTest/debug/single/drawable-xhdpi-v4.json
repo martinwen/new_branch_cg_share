@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\pullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\pullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\pullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\arrow.png",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\arrow.png"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\pullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    }
+]

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@android:color/white">
+
+    <LinearLayout 
+        android:layout_width="match_parent"
+    	android:layout_height="40dp">
+    	<RelativeLayout 
+    	    android:id="@+id/rl_usable"
+    	    android:layout_width="0dp"
+            android:layout_weight="1"
+    		android:layout_height="match_parent"
+    		android:gravity="center"
+    		android:background="@drawable/fw_jxp_bg_check">
+	        <TextView 
+	          	android:id="@+id/tv_usable"
+	            android:layout_width="wrap_content"
+	    		android:layout_height="wrap_content"
+	    		android:drawableLeft="@drawable/shape_jiaxired"
+	    		android:drawablePadding="5dp"
+	    		android:text="可使用"
+	    		android:textColor="@color/text_gray"
+	    		android:textSize="12sp"/>
+        </RelativeLayout>
+    	<RelativeLayout 
+    	    android:id="@+id/rl_unused"
+    	    android:layout_width="0dp"
+            android:layout_weight="1"
+    		android:layout_height="match_parent"
+    		android:gravity="center"
+    		android:background="@drawable/fw_jxp_bg_uncheck">
+	        <TextView 
+	          	android:id="@+id/tv_unused"
+	            android:layout_width="wrap_content"
+	    		android:layout_height="wrap_content"
+	    		android:drawableLeft="@drawable/shape_jiaxigray"
+	    		android:drawablePadding="5dp"
+	    		android:text="已失效"
+	    		android:textColor="@color/text_gray"
+	    		android:textSize="12sp"/>
+        </RelativeLayout>
+    </LinearLayout>
+
+    <com.fanfanlicai.view.HorizontalViewPager
+        android:id="@+id/pager"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+</LinearLayout>

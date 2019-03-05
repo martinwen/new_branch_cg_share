@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+    <RelativeLayout style="@style/title_container" >
+
+        <TextView
+            android:id="@+id/get_back"
+            style="@style/title_text_back" />
+
+        <TextView
+            style="@style/title_text_body"
+            android:text="选择开户地区" />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="请选择开户省份或直辖市"
+        android:textColor="@color/text_gray"
+        android:textSize="13sp"
+        />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/rv_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <include layout="@layout/rv_letter_header"></include>
+
+        <com.fanfanlicai.view.cunguan.LetterNavigationView
+            android:id="@+id/navigation"
+            android:layout_width="48dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="end" />
+
+        <TextView
+            android:id="@+id/tv_letter_hide"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_gravity="center"
+            android:background="@drawable/letter_circle_bg"
+            android:gravity="center"
+            android:text="A"
+            android:textColor="#FFF"
+            android:textSize="32sp"
+            android:visibility="gone" />
+
+    </FrameLayout>
+</LinearLayout>

@@ -1,0 +1,590 @@
+[
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_title_bar_back_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_title_bar_back_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_my_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\bottom_my_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\button_buy_fanwan.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\button_buy_fanwan.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg_corners.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\btn_bg_corners.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_ll4_item.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\selector_ll4_item.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_common_dialog_unicorn_btn_right_bg_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_common_dialog_unicorn_btn_right_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_theme_button_shape.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_theme_button_shape.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_findpager.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\selector_findpager.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_directinvest_blue.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\bg_directinvest_blue.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_directinvest_orange.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\bg_directinvest_orange.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_view_pager_indicator_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_view_pager_indicator_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_action_bar_icon_transparent.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_action_bar_icon_transparent.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_fantong.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\shape_fantong.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_checkbox_btn.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\selector_checkbox_btn.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_update.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\progress_update.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_directinvest_gray.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\bg_directinvest_gray.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_ll5_item.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\selector_ll5_item.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_message_input_edit_text_disabled.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_message_input_edit_text_disabled.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\point_normal2.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\point_normal2.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_message_item_right_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_message_item_right_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_text_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\bottom_text_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_title_bar_bg.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_title_bar_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_evaluation_dialog_btn_submit_bg_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_evaluation_dialog_btn_submit_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_bg_circle_shape.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_bg_circle_shape.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_emoji_item_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_emoji_item_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_moon_page_selected.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_moon_page_selected.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_platform_cell_back.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\ssdk_oks_classic_platform_cell_back.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_message_notification_bg.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_message_notification_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_list_item_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_list_item_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\cal_today_bg.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\cal_today_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\cal_signed_bg.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\cal_signed_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\button_short_selector2.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\button_short_selector2.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_message_button_bottom_emoji_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_message_button_bottom_emoji_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_message_button_bottom_add_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_message_button_bottom_add_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_message_button_bottom_audio_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_message_button_bottom_audio_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_message_input_edit_text_selected.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_message_input_edit_text_selected.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\new_branch_cg_share\\pullToRefresh\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_item_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\setting_item_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_message_view_bottom.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_message_view_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_ll2_item.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\selector_ll2_item.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_message_evaluation_background.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_message_evaluation_background.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_progress_small_white.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_progress_small_white.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_round_white.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\bg_round_white.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_recording_background.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_recording_background.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_audio_animation_list_left.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_audio_animation_list_left.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_common_btn_text_color_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_common_btn_text_color_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_message_button_bottom_text_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_message_button_bottom_text_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_evaluation_dialog_select_text_bg_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_evaluation_dialog_select_text_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_evaluation_button_bg.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_evaluation_button_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_evaluation_dialog_select_text_bg.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_evaluation_dialog_select_text_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_message_image_cover_right_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_message_image_cover_right_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pickerview_btn.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\selector_pickerview_btn.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_webview.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\progressbar_webview.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_safe_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\bottom_safe_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_message_item_round_bg.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_message_item_round_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\new_branch_cg_share\\libraryIndicator\\unspecified\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_progress_bar_background.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_progress_bar_background.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\button_long_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\button_long_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_jiaxigray.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\shape_jiaxigray.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_amplitude_list.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_amplitude_list.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_ll7_item.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\selector_ll7_item.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_chaxun_gray.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\shape_chaxun_gray.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_progress_bar_foreground.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_progress_bar_foreground.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_border_button_background.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_border_button_background.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_register.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\shape_register.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_evaluation_remark_border.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_evaluation_remark_border.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_message_item_left_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_message_item_left_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_message_item_rich_text_right_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_message_item_rich_text_right_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_message_item_rich_text_left_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_message_item_rich_text_left_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_message_input_edit_text_default.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_message_input_edit_text_default.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_action_bar_button_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_action_bar_button_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_audio_translate_failed.png",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_audio_translate_failed.png"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_version.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\shape_version.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\button_short_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\button_short_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_chaxun.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\shape_chaxun.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_ll8_item.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\selector_ll8_item.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_message_plus_photo_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_message_plus_photo_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_evaluation_star_level_list_dark.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_evaluation_star_level_list_dark.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_jiaxired.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\shape_jiaxired.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_day.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\shape_day.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_ll1_item.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\selector_ll1_item.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_common_dialog_unicorn_bg.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_common_dialog_unicorn_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_detail.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\progress_detail.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_evaluation_message_item_bg.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_evaluation_message_item_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_progressbar.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\ssdk_oks_classic_progressbar.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\yaf_audio_cancel_record_red_bg.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\yaf_audio_cancel_record_red_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_message_image_cover_left_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_message_image_cover_left_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_pull.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\progress_pull.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_jiaxiblue.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\shape_jiaxiblue.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator_text.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\new_branch_cg_share\\libraryIndicator\\unspecified\\res\\drawable\\vpi__tab_indicator_text.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_ll9_item.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\selector_ll9_item.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_message_input_edit_text.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_message_input_edit_text.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\point_focus2.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\point_focus2.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_title_bar_bg_black.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_title_bar_bg_black.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\letter_circle_bg.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\letter_circle_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_ll3_item.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\selector_ll3_item.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\button_directinvest_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\button_directinvest_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_answer.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\shape_answer.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_money_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\bottom_money_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_evaluation_star_level_list_light.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_evaluation_star_level_list_light.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_moon_page_unselected.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_moon_page_unselected.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_find_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\bottom_find_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\new_branch_cg_share\\pullToRefresh\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_common_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\btn_common_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_sharebg.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\shape_sharebg.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_ll6_item.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\drawable\\selector_ll6_item.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_common_dialog_unicorn_single_btn_bg_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_common_dialog_unicorn_single_btn_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_common_dialog_unicorn_btn_left_bg_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_common_dialog_unicorn_btn_left_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_audio_animation_list_right.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_audio_animation_list_right.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_message_unread_news_icon_selector.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_message_unread_news_icon_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\drawable\\ysf_evaluation_dialog_bg.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\drawable\\ysf_evaluation_dialog_bg.xml"
+    }
+]

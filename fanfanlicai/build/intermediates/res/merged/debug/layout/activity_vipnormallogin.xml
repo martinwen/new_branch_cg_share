@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/global_gray"
+    android:orientation="vertical">
+
+    <RelativeLayout style="@style/title_container">
+
+        <TextView
+            android:id="@+id/tv_back"
+            style="@style/title_text_back" />
+
+        <TextView
+            style="@style/title_text_body"
+            android:text="会员体系" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:weightSum="9"
+                android:background="@drawable/userheadloginbg"
+                android:orientation="horizontal">
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_weight="4"
+                        android:gravity="center"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:layout_marginTop="5dp"
+                            android:background="@drawable/head_in" />
+                        <TextView
+                            android:id="@+id/vip_number"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="5dp"
+                            android:text="13888888888"
+                            android:textColor="@android:color/white"
+                            android:textSize="14sp" />
+
+                        <ImageView
+                            android:id="@+id/iv_user_login"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="5dp"
+                            android:src="@drawable/user_normal_login" />
+
+                    </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="5"
+                    android:gravity="center_vertical"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:drawableLeft="@drawable/vip_point_yellow"
+                            android:drawablePadding="5dp"
+                            android:layout_marginLeft="25dp"
+                            android:text="饭盒资产"
+                            android:textColor="@android:color/white"
+                            android:textSize="14sp" />
+                        <TextView
+                            android:id="@+id/tv_vip_fanhe"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="10dp"
+                            android:text="0.00元"
+                            android:textColor="@android:color/white"
+                            android:textSize="14sp" />
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:orientation="horizontal">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:drawableLeft="@drawable/vip_point_yellow"
+                            android:drawablePadding="5dp"
+                            android:layout_marginLeft="25dp"
+                            android:text="饭碗资产"
+                            android:textColor="@android:color/white"
+                            android:textSize="14sp" />
+                        <TextView
+                            android:id="@+id/tv_vip_fanwan"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="10dp"
+                            android:text="0.00元"
+                            android:textColor="@android:color/white"
+                            android:textSize="14sp" />
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:orientation="horizontal">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:drawableLeft="@drawable/vip_point_yellow"
+                            android:drawablePadding="5dp"
+                            android:layout_marginLeft="25dp"
+                            android:text="饭桶资产"
+                            android:textColor="@android:color/white"
+                            android:textSize="14sp" />
+                        <TextView
+                            android:id="@+id/tv_vip_fantong"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="10dp"
+                            android:text="0.00元"
+                            android:textColor="@android:color/white"
+                            android:textSize="14sp" />
+                    </LinearLayout>
+
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/line_width" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:paddingLeft="10dp"
+                android:gravity="center_vertical"
+                android:text="当前权益（普通会员）"
+                android:textColor="@color/global_yellowcolor"
+                android:textSize="12sp"
+                android:background="@android:color/white"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/line_width" />
+
+            <RelativeLayout
+                style="@style/settingitem_container"
+                android:background="@android:color/white"
+                >
+
+                <TextView
+                    style="@style/contact_item"
+                    android:drawableLeft="@drawable/vip_fanhe"
+                    android:gravity="center"
+                    android:text="饭盒结算利率"
+                    />
+
+                <TextView
+                    android:id="@+id/tv_fanhe"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"
+                    android:text=""
+                    android:textSize="12sp"/>
+            </RelativeLayout>
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/xian_jiange" />
+
+            <RelativeLayout
+                style="@style/settingitem_container"
+                android:background="@android:color/white"
+                 >
+
+                <TextView
+                    style="@style/contact_item"
+                    android:drawableLeft="@drawable/vip_shengri"
+                    android:gravity="center"
+                    android:text="生日福利"
+                    />
+                <TextView
+                    android:id="@+id/tv_shengri"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"
+                    android:text=""
+                    android:textSize="12sp"/>
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/xian_jiange" />
+
+            <RelativeLayout
+                style="@style/settingitem_container"
+                android:background="@android:color/white"
+                >
+
+                <TextView
+                    style="@style/contact_item"
+                    android:drawableLeft="@drawable/vip_tixian"
+                    android:gravity="center"
+                    android:text="提现票"
+                    />
+
+                <TextView
+                    android:id="@+id/tv_tixian"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"
+                    android:text=""
+                    android:textSize="12sp"/>
+            </RelativeLayout>
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/xian_jiange" />
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:background="@android:color/white"
+                >
+
+                <TextView
+                    style="@style/contact_item"
+                    android:drawableLeft="@drawable/vip_yaoqing"
+                    android:gravity="center"
+                    android:text="邀请好友出借奖励"
+                    />
+
+                <TextView
+                    android:id="@+id/tv_yaoqing"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentRight="true"
+                    android:paddingRight="10dp"
+                    android:text=""
+                    android:lineSpacingExtra="3dp"
+                    android:textSize="12sp"/>
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/line_width" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="vertical"
+                android:background="@android:color/white">
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/line_width" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:paddingLeft="10dp"
+                    android:gravity="center_vertical"
+                    android:text="用户升级"
+                    android:textColor="@color/global_yellowcolor"
+                    android:textSize="12sp"
+                    />
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/line_width" />
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:src="@drawable/vip_sj_normal" />
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:layout_marginLeft="20dp"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/tv_toufanwan"
+                            android:layout_width="wrap_content"
+                            android:layout_height="50dp"
+                            android:gravity="center"
+                            android:text="1\n2"
+                            android:textSize="12sp"/>
+                        <TextView
+                            android:id="@+id/tv_upgradecore"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal|bottom"
+                            android:drawablePadding="3dp"
+                            android:drawableRight="@drawable/arrowblue"
+                            android:paddingTop="10dp"
+                            android:text="马上升级"
+                            android:textColor="@color/text_blue"
+                            android:textSize="12sp" />
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:layout_marginRight="20dp"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/tv_toufantong"
+                            android:layout_width="wrap_content"
+                            android:layout_height="50dp"
+                            android:gravity="center"
+                            android:text="1\n2\n3"
+                            android:textSize="12sp"/>
+                        <TextView
+                            android:id="@+id/tv_upgradehighcore"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal|bottom"
+                            android:drawablePadding="3dp"
+                            android:drawableRight="@drawable/arrowblue"
+                            android:paddingTop="10dp"
+                            android:text="马上升级"
+                            android:textColor="@color/text_blue"
+                            android:textSize="12sp" />
+                    </LinearLayout>
+                </LinearLayout>
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/line_width" />
+            </LinearLayout>
+
+            <include layout="@layout/vip_common"></include>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

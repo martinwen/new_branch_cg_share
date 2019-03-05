@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 全局橘黄色 -->
+    <color name="global_yellow">#F78A21</color>
+    <color name="global_yellowcolor">#F86402</color>
+     <!-- 全局背景灰色 -->
+    <color name="global_gray">#F7F7F7</color>
+    <color name="global_bgcolor">#F6F1eb</color>
+     <!-- 全局背景微红色 -->
+    <color name="global_red">#F6F1ED</color>
+     <!-- 全局背景微红色 -->
+    <color name="global_bigred">#F24749</color>
+    <!-- 全局黑色文字颜色 -->
+    <color name="text_black">#333333</color>
+    <!-- 全局灰色文字颜色 -->
+    <color name="text_gray">#868686</color>
+    <!-- 全局蓝色文字颜色 -->
+    <color name="text_blue">#139fe7</color>
+    <color name="global_blue">#139fe7</color>
+    <!-- 全局红色文字颜色 -->
+    <color name="text_red">#FA783F</color>
+    <!-- 全局线条颜色 -->
+    <color name="line_color">#e5d9cb</color>
+    <!-- 直投字体颜色 -->
+    <color name="text_darkorange">#F76303</color>
+    <color name="text_lightorange">#FF7D2F</color>
+    <color name="line_gray_alpha">#65CCCCCC</color>
+    
+    
+    <!--pickerView-->
+   <color name="pickerview_timebtn_nor">#F86402</color>
+    <color name="pickerview_timebtn_pre">#FA934E</color>
+    <color name="pickerview_bg_topbar">#f5f5f5</color>
+    <color name="pickerview_topbar_title">#000000</color>
+    <color name="pickerview_wheelview_textcolor_out">#a8a8a8</color>
+    <color name="pickerview_wheelview_textcolor_center">#F86402</color>
+    <color name="pickerview_wheelview_textcolor_divider">#d5d5d5</color>
+    <!--覆盖颜色-->
+    <color name="bgColor_overlay">#60000000</color>
+    
+    
+    
+    <!--calendar-->
+    <color name="cal_title_background">#FFFFFFFF</color>
+    <color name="cal_title_text">#FF2D2D2D</color>
+
+    <color name="cal_arrow_enable">#ffc0c0c0</color>
+    <color name="cal_arrow_unable">#ffeaeaea</color>
+
+    <color name="cal_divider">#FFEDEDED</color>
+
+    <color name="cal_weekdays_background">#FFFFFFFF</color>
+    <color name="cal_weekdays_text">#FF2D2D2D</color>
+
+    <color name="cal_pager_background">#FFFFFFFF</color>
+
+    <color name="cal_signed_border">#ffb5e6f1</color>
+    <color name="cal_signed_background">#ffF86402</color>
+    <color name="cal_signed_day">#ff0babd1</color>
+    <color name="cal_signed_text">#ff0babd1</color>
+
+    <color name="cal_unsigned_day">#ff2d2d2d</color>
+    <color name="cal_unsigned_text">#ffb6b6b6</color>
+
+    <color name="cal_today_background">#ff0babd1</color>
+    <color name="cal_today_day">#ffffffff</color>
+    <color name="cal_today_text">#ff000000</color>
+
+    <color name="cal_unreach_day">#ffb6b6b6</color>
+    <color name="cal_unreach_text">#ffb6b6b6</color>
+</resources>

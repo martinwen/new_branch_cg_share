@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\pullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\pullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\progress_pull.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\progress_pull.xml"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\pullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\pullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+    }
+]

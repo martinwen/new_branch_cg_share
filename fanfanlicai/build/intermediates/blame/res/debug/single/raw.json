@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\raw\\ff_app_public_test.crt",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\raw\\ff_app_public_test.crt"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\raw\\app_ff_pkcs8.pem",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\raw\\app_ff_pkcs8.pem"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\raw\\ysf_audio_end_tip.wav",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\exploded-aar\\com.qiyukf.unicorn\\unicorn\\2.9.0\\res\\raw\\ysf_audio_end_tip.wav"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\raw\\ff_app_public.crt",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\raw\\ff_app_public.crt"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\raw\\app_private.pem",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\raw\\app_private.pem"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\raw\\app_ff_pkcs8_test.pem",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\raw\\app_ff_pkcs8_test.pem"
+    },
+    {
+        "merged": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\build\\intermediates\\res\\merged\\debug\\raw\\service_rsacert.crt",
+        "source": "E:\\Android_cg\\new_branch_cg_share\\fanfanlicai\\src\\main\\res\\raw\\service_rsacert.crt"
+    }
+]

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/global_gray"
+    android:orientation="vertical" >
+
+    <RelativeLayout style="@style/title_container" >
+
+        <TextView
+            android:id="@+id/address_back"
+            style="@style/title_text_back" />
+
+        <TextView
+            style="@style/title_text_body"
+            android:text="联系地址" />
+    </RelativeLayout>
+
+
+     <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/line_width" />
+
+	<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+         android:orientation="horizontal"
+        android:background="@android:color/white" >
+
+        <TextView
+            style="@style/setting_text_left"
+            android:text="邮政编码" />
+
+        <EditText
+            android:id="@+id/et_code"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginLeft="20dp"
+            android:background="@null"
+            android:hint="请输入邮政编码"
+            android:textColor="@color/text_black"
+            android:textSize="15sp" />
+    </LinearLayout>
+   <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/line_width" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/line_width" />
+
+     <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="92dp"
+        android:background="@android:color/white" 
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            style="@style/setting_text_left"
+            android:text="详细地址" />
+
+        <EditText
+            android:id="@+id/et_detail"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:background="@null"
+            android:hint="请输入详细地址"
+            android:textColor="@color/text_black"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/line_width" />
+
+    <Button
+        android:id="@+id/bt_save"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/button_long_selector"
+        android:text="确定"
+        android:textColor="@android:color/white"
+        android:textSize="18sp" />
+    
+</LinearLayout>

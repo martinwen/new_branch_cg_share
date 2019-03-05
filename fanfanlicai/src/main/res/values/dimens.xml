@@ -1,0 +1,58 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <!-- 第四页我的账户1280x720的尺寸适配 -->
+    <dimen name="my_background_height">125dp</dimen>
+
+
+    <!-- pickerview -->
+
+    <!-- 顶部按钮栏高度 -->
+    <dimen name="pickerview_topbar_height">44dp</dimen>
+    <!-- 顶部按钮paddingLeft -->
+    <dimen name="pickerview_topbar_paddingleft">10dp</dimen>
+    <!-- 顶部按钮paddingRight -->
+    <dimen name="pickerview_topbar_paddingright">30dp</dimen>
+    <!-- 顶部按钮文字大小 -->
+    <dimen name="pickerview_topbar_btn_textsize">20sp</dimen>
+    <dimen name="pickerview_topbar_title_textsize">21sp</dimen>
+    <!-- 选项文字大小 需要配合 bools.xml 的 pickerview_customTextSize 为 true 才有效果-->
+    <dimen name="pickerview_textsize">20sp</dimen>
+
+
+    <!--calendar-->
+    <dimen name="cal_title_text_size">13sp</dimen>
+    <dimen name="cal_title_height">48dp</dimen>
+    <dimen name="cal_title_h_margin">10dp</dimen>
+
+    <dimen name="cal_weekdays_height">52dp</dimen>
+    <dimen name="cal_weekdays_text_size">12sp</dimen>
+    <dimen name="cal_weekdays_h_margin">10dp</dimen>
+
+    <dimen name="cal_divider_h_margin">10dp</dimen>
+    <dimen name="cal_divider_height">1dp</dimen>
+
+    <dimen name="cal_arrow_height">14dp</dimen>
+
+    <dimen name="cal_sign_text_size">10sp</dimen>
+    <dimen name="cal_day_text_size">13sp</dimen>
+
+    <dimen name="cal_pager_h_margin">10dp</dimen>
+
+    <dimen name="cal_date_v_margin">10dp</dimen>
+    <dimen name="cal_date_width">25dp</dimen>
+    <dimen name="cal_date_height">25dp</dimen>
+
+    <dimen name="text_xx_small">8sp</dimen>
+    <dimen name="text_small">10.5sp</dimen>
+    <dimen name="text_nomal">12.0sp</dimen>
+    <dimen name="text_larger">14.0sp</dimen>
+    <dimen name="text_title">16sp</dimen>
+    <dimen name="di_text_height">25dp</dimen>
+
+    <dimen name="iv_allmoney_wh">24dp</dimen>
+</resources>

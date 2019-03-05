@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/global_bgcolor"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/line_width" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:background="@android:color/white"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:text="会员等级说明"
+        android:textColor="@color/global_yellowcolor"
+        android:textSize="12sp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/line_width" />
+
+    <RelativeLayout
+        android:id="@+id/rl_user_normal"
+        style="@style/settingitem_container"
+        android:background="@drawable/setting_item_selector">
+
+        <TextView
+            style="@style/contact_item"
+            android:drawableLeft="@drawable/user_normal_logo"
+            android:gravity="center"
+            android:text="普通会员" />
+
+        <ImageView
+            android:id="@+id/iv_user_normal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="15dp"
+            android:src="@drawable/arrow_down" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/line_width" />
+
+    <LinearLayout
+        android:id="@+id/ll_user_normal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fffdfb"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_marginLeft="10dp"
+            android:drawableLeft="@drawable/vip_point_red"
+            android:drawablePadding="5dp"
+            android:gravity="center"
+            android:text="满足条件"
+            android:textColor="@color/global_yellowcolor"
+            android:textSize="12sp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/xian_jiange_user" />
+
+        <TextView
+            android:id="@+id/tv_tiaojian_normal"
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:layout_marginLeft="15dp"
+            android:drawableLeft="@drawable/vip_tiaojian"
+            android:drawablePadding="10dp"
+            android:gravity="center"
+            android:text="注册成功"
+            android:textColor="@color/text_black"
+            android:textSize="15sp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/line_width" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_marginLeft="10dp"
+            android:drawableLeft="@drawable/vip_point_red"
+            android:drawablePadding="5dp"
+            android:gravity="center"
+            android:text="会员权益"
+            android:textColor="@color/global_yellowcolor"
+            android:textSize="12sp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/xian_jiange_user" />
+
+        <RelativeLayout style="@style/settingitem_container">
+
+            <TextView
+                style="@style/contact_item"
+                android:drawableLeft="@drawable/vip_fanhe"
+                android:gravity="center"
+                android:text="饭盒结算利率" />
+
+            <TextView
+                android:id="@+id/tv_fanhe_normal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:text=""
+                android:textSize="12sp" />
+
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/xian_jiange_user" />
+
+        <RelativeLayout style="@style/settingitem_container">
+
+            <TextView
+                style="@style/contact_item"
+                android:drawableLeft="@drawable/vip_shengri"
+                android:gravity="center"
+                android:text="生日福利" />
+
+            <TextView
+                android:id="@+id/tv_shengri_normal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:text=""
+                android:textSize="12sp" />
+
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/xian_jiange_user" />
+
+        <RelativeLayout style="@style/settingitem_container">
+
+            <TextView
+                style="@style/contact_item"
+                android:drawableLeft="@drawable/vip_tixian"
+                android:gravity="center"
+                android:text="提现票" />
+
+            <TextView
+                android:id="@+id/tv_tixian_normal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:text=""
+                android:textSize="12sp" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/xian_jiange_user" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="80dp">
+
+            <TextView
+                style="@style/contact_item"
+                android:drawableLeft="@drawable/vip_yaoqing"
+                android:gravity="center"
+                android:text="邀请好友出借奖励" />
+
+            <TextView
+                android:id="@+id/tv_yaoqing_normal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:gravity="right"
+                android:lineSpacingExtra="3dp"
+                android:paddingRight="10dp"
+                android:text=""
+                android:textSize="12sp" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/line_width" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_user_core"
+        style="@style/settingitem_container"
+        android:background="@drawable/setting_item_selector">
+
+        <TextView
+            style="@style/contact_item"
+            android:drawableLeft="@drawable/user_core_logo"
+            android:gravity="center"
+            android:text="核心会员" />
+
+        <ImageView
+            android:id="@+id/iv_user_core"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="15dp"
+            android:src="@drawable/arrow_down" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/line_width" />
+
+    <LinearLayout
+        android:id="@+id/ll_user_core"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fffdfb"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_marginLeft="10dp"
+            android:drawableLeft="@drawable/vip_point_red"
+            android:drawablePadding="5dp"
+            android:gravity="center"
+            android:text="满足条件"
+            android:textColor="@color/global_yellowcolor"
+            android:textSize="12sp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/xian_jiange_user" />
+
+        <TextView
+            android:id="@+id/tv_tiaojian_core"
+            android:layout_width="wrap_content"
+            android:layout_height="80dp"
+            android:layout_marginLeft="15dp"
+            android:drawableLeft="@drawable/vip_tiaojian"
+            android:drawablePadding="10dp"
+            android:gravity="center_vertical"
+            android:lineSpacingExtra="3dp"
+            android:text=""
+            android:textColor="@color/text_black"
+            android:textSize="15sp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/line_width" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_marginLeft="10dp"
+            android:drawableLeft="@drawable/vip_point_red"
+            android:drawablePadding="5dp"
+            android:gravity="center"
+            android:text="会员权益"
+            android:textColor="@color/global_yellowcolor"
+            android:textSize="12sp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/xian_jiange_user" />
+
+        <RelativeLayout style="@style/settingitem_container">
+
+            <TextView
+                style="@style/contact_item"
+                android:drawableLeft="@drawable/vip_fanhe"
+                android:gravity="center"
+                android:text="饭盒结算利率" />
+
+            <TextView
+                android:id="@+id/tv_fanhe_core"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:text=""
+                android:textSize="12sp" />
+
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/xian_jiange_user" />
+
+        <RelativeLayout style="@style/settingitem_container">
+
+            <TextView
+                style="@style/contact_item"
+                android:drawableLeft="@drawable/vip_shengri"
+                android:gravity="center"
+                android:text="生日福利" />
+
+            <TextView
+                android:id="@+id/tv_shengri_core"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:text=""
+                android:textSize="12sp" />
+
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/xian_jiange_user" />
+
+        <RelativeLayout style="@style/settingitem_container">
+
+            <TextView
+                style="@style/contact_item"
+                android:drawableLeft="@drawable/vip_tixian"
+                android:gravity="center"
+                android:text="提现票" />
+
+            <TextView
+                android:id="@+id/tv_tixian_core"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:text=""
+                android:textSize="12sp" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/xian_jiange_user" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="80dp">
+
+            <TextView
+                style="@style/contact_item"
+                android:drawableLeft="@drawable/vip_yaoqing"
+                android:gravity="center"
+                android:text="邀请好友出借奖励" />
+
+            <TextView
+                android:id="@+id/tv_yaoqing_core"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:gravity="right"
+                android:lineSpacingExtra="3dp"
+                android:paddingRight="10dp"
+                android:text=""
+                android:textSize="12sp" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/xian_jiange_user" />
+
+        <RelativeLayout style="@style/settingitem_container">
+
+            <TextView
+                style="@style/contact_item"
+                android:drawableLeft="@drawable/vip_choujiang"
+                android:gravity="center"
+                android:text="抽奖" />
+
+            <TextView
+                android:id="@+id/tv_choujiang_core"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:text=""
+                android:textSize="12sp" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/xian_jiange_user" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="80dp">
+
+            <TextView
+                style="@style/contact_item"
+                android:drawableLeft="@drawable/vip_huiyuanri"
+                android:gravity="center"
+                android:text="核心会员日" />
+
+            <TextView
+                android:id="@+id/tv_huiyuanri_core"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:gravity="right"
+                android:lineSpacingExtra="3dp"
+                android:paddingRight="10dp"
+                android:text=""
+                android:textSize="12sp" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/line_width" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_user_highcore"
+        style="@style/settingitem_container"
+        android:background="@drawable/setting_item_selector">
+
+        <TextView
+            style="@style/contact_item"
+            android:drawableLeft="@drawable/user_highcore_logo"
+            android:gravity="center"
+            android:text="高级核心会员" />
+
+        <ImageView
+            android:id="@+id/iv_user_highcore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="15dp"
+            android:src="@drawable/arrow_down" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/line_width" />
+
+    <LinearLayout
+        android:id="@+id/ll_user_highcore"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fffdfb"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_marginLeft="10dp"
+            android:drawableLeft="@drawable/vip_point_red"
+            android:drawablePadding="5dp"
+            android:gravity="center"
+            android:text="满足条件"
+            android:textColor="@color/global_yellowcolor"
+            android:textSize="12sp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/xian_jiange_user" />
+
+        <TextView
+            android:id="@+id/tv_tiaojian_highcore"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:layout_marginLeft="15dp"
+            android:drawableLeft="@drawable/vip_tiaojian"
+            android:drawablePadding="10dp"
+            android:gravity="center"
+            android:text="饭桶资产>=50W"
+            android:textColor="@color/text_black"
+            android:textSize="15sp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/line_width" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_marginLeft="10dp"
+            android:drawableLeft="@drawable/vip_point_red"
+            android:drawablePadding="5dp"
+            android:gravity="center"
+            android:text="会员权益"
+            android:textColor="@color/global_yellowcolor"
+            android:textSize="12sp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/xian_jiange_user" />
+
+        <RelativeLayout style="@style/settingitem_container">
+
+            <TextView
+                style="@style/contact_item"
+                android:drawableLeft="@drawable/vip_fanhe"
+                android:gravity="center"
+                android:text="饭盒结算利率" />
+
+            <TextView
+                android:id="@+id/tv_fanhe_highcore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:text=""
+                android:textSize="12sp" />
+
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/xian_jiange_user" />
+
+        <RelativeLayout style="@style/settingitem_container">
+
+            <TextView
+                style="@style/contact_item"
+                android:drawableLeft="@drawable/vip_shengri"
+                android:gravity="center"
+                android:text="生日福利" />
+
+            <TextView
+                android:id="@+id/tv_shengri_highcore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:text=""
+                android:textSize="12sp" />
+
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/xian_jiange_user" />
+
+        <RelativeLayout style="@style/settingitem_container">
+
+            <TextView
+                style="@style/contact_item"
+                android:drawableLeft="@drawable/vip_tixian"
+                android:gravity="center"
+                android:text="提现票" />
+
+            <TextView
+                android:id="@+id/tv_tixian_highcore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:text=""
+                android:textSize="12sp" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/xian_jiange_user" />
+
+        <RelativeLayout
+            style="@style/settingitem_container"
+            android:visibility="gone">
+
+            <TextView
+                style="@style/contact_item"
+                android:drawableLeft="@drawable/vip_youxiangou"
+                android:gravity="center"
+                android:text="优先购" />
+
+            <TextView
+                android:id="@+id/tv_youxiangou_highcore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:text=""
+                android:textSize="12sp" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/xian_jiange_user"
+            android:visibility="gone" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="80dp">
+
+            <TextView
+                style="@style/contact_item"
+                android:drawableLeft="@drawable/vip_yaoqing"
+                android:gravity="center"
+                android:text="邀请好友出借奖励" />
+
+            <TextView
+                android:id="@+id/tv_yaoqing_highcore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:gravity="right"
+                android:lineSpacingExtra="3dp"
+                android:paddingRight="10dp"
+                android:text=""
+                android:textSize="12sp" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/xian_jiange_user" />
+
+        <RelativeLayout style="@style/settingitem_container">
+
+            <TextView
+                style="@style/contact_item"
+                android:drawableLeft="@drawable/vip_choujiang"
+                android:gravity="center"
+                android:text="抽奖" />
+
+            <TextView
+                android:id="@+id/tv_choujiang_highcore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:text=""
+                android:textSize="12sp" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/xian_jiange_user" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="80dp">
+
+            <TextView
+                style="@style/contact_item"
+                android:drawableLeft="@drawable/vip_huiyuanri"
+                android:gravity="center"
+                android:text="核心会员日" />
+
+            <TextView
+                android:id="@+id/tv_huiyuanri_highcore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:gravity="right"
+                android:lineSpacingExtra="3dp"
+                android:paddingRight="10dp"
+                android:text=""
+                android:textSize="12sp" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/xian_jiange_user" />
+
+        <RelativeLayout style="@style/settingitem_container">
+
+            <TextView
+                style="@style/contact_item"
+                android:drawableLeft="@drawable/vip_kefu"
+                android:gravity="center"
+                android:text="专属客服" />
+
+            <TextView
+                android:id="@+id/tv_kefu_highcore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:text=""
+                android:textSize="12sp" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/line_width" />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/line_width" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:background="@android:color/white"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:text="升降级说明"
+        android:textColor="@color/global_yellowcolor"
+        android:textSize="12sp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/line_width" />
+
+    <LinearLayout
+        style="@style/settingitem_container"
+        android:background="@android:color/white"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/contact_item"
+            android:drawableLeft="@drawable/user_normal_logo"
+            android:gravity="center"
+            android:text="普通会员" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="45dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:text="注册即可成为普通会员，永久有效"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/xian_jiange" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:background="@android:color/white"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/contact_item"
+            android:drawableLeft="@drawable/user_core_logo"
+            android:gravity="center"
+            android:text="核心会员" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="45dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:lineSpacingExtra="3dp"
+            android:text="饭碗资产或邀请好友饭碗资产满足条件即可成为核心会员，直至规则调整为止"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/xian_jiange" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:background="@android:color/white"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/contact_item"
+            android:drawableLeft="@drawable/user_highcore_logo"
+            android:gravity="center"
+            android:text="高级核心会员" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:lineSpacingExtra="3dp"
+            android:text="饭桶出借额或金饭碗累计出借额满足条件即可成为高级核心会员；\n当饭桶出借额不满足条件时，当日收益仍按高级核心会员获得，次日降级生效；\n活动规则调整前，金饭碗累计出借额满足条件的用户不降级。"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/line_width" />
+</LinearLayout>

@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.fanfanlicai.fanfanlicai"
+    android:versionCode="47"
+    android:versionName="3.0.8" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="17" />
+    <!-- 访问网络添加的权限 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 打电话添加的权限 -->
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <!-- 截取短信添加的权限 -->
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+
+    <!-- 扫一扫添加的权限 -->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+
+    <!-- 读取手机状态权限 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <!-- 友盟统计添加权限 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <!-- shareSDK添加权限 -->
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <!-- 百度统计必须申明的权限 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <!-- 百度统计可选的权限 -->
+    <!-- 启用错误分析功能，须添加该权限 -->
+    <uses-permission android:name="android.permission.READ_LOGS" />
+
+    <permission
+        android:name="com.fanfanlicai.fanfanlicai.permission.JPUSH_MESSAGE"
+        android:protectionLevel="signature" /> <!-- Required  一些系统要求的权限，如访问网络等 -->
+    <uses-permission android:name="com.fanfanlicai.fanfanlicai.permission.JPUSH_MESSAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_USER_PRESENT" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" /> <!-- Optional for location -->
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" /> <!-- 用于开启 debug 版本的应用在6.0 系统上 层叠窗口权限 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <uses-feature
+        android:name="android.hardware.microphone"
+        android:required="false" />
+
+    <application
+        android:name="com.fanfanlicai.global.FanFanApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+
+        <!-- 友盟添加的Appkey和渠道id -->
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="57570e5ae0f55a767a002abe" />
+        <meta-data
+            android:name="UMENG_yingyongbao"
+            android:value="app-yingyongbao" />
+        <meta-data
+            android:name="UMENG_app-xiaomi"
+            android:value="app-xiaomi" />
+        <meta-data
+            android:name="UMENG_360"
+            android:value="app-360" />
+        <meta-data
+            android:name="UMENG_baidushouji"
+            android:value="app-baidushouji" />
+        <meta-data
+            android:name="UMENG_wandoujia"
+            android:value="app-wandoujia" />
+        <meta-data
+            android:name="UMENG_huawei"
+            android:value="app-huawei" />
+        <meta-data
+            android:name="UMENG_anzhi"
+            android:value="app-anzhi" />
+
+        <!-- 渠道商编号 -->
+        <meta-data
+            android:name="BaiduMobAd_CHANNEL"
+            android:value="Baidu Market" />
+        <!-- 您从百度网站获取的APP KEY -->
+        <meta-data
+            android:name="BaiduMobAd_STAT_ID"
+            android:value="5cc586ef16" />
+        <!-- 以下 -->
+        <!-- 是否开启错误日志统计，默认为false -->
+        <meta-data
+            android:name="BaiduMobAd_EXCEPTION_LOG"
+            android:value="true" />
+        <!-- 日志发送策略，可选值：APP_START、ONCE_A_DAY、SET_TIME_INTERVAL，默认为APP_START -->
+        <meta-data
+            android:name="BaiduMobAd_SEND_STRATEGY"
+            android:value="APP_START" />
+        <!-- 日志发送策略 为SET_TIME_INTERVAL时，需设定时间间隔。取值为1-24的整数，默认为1 -->
+        <!-- <meta-data android:name="BaiduMobAd_TIME_INTERVAL" android:value="2" /> -->
+        <!-- 日志仅在wifi网络下发送，默认为false -->
+        <meta-data
+            android:name="BaiduMobAd_ONLY_WIFI"
+            android:value="false" />
+
+        <activity
+            android:name="com.fanfanlicai.activity.EnterActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.fanfanlicai.activity.GuideActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.PageIndicatorDefaults" />
+
+        <!-- 刷新token的广播接收器 -->
+        <receiver
+            android:name="com.fanfanlicai.service.RefreshTokenReceiver"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.fanfanlicai.service.RefreshService" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.fanfanlicai.service.JpushReceiver"
+            android:enabled="true" >
+            <intent-filter>
+
+                <!-- Required 用户注册SDK的intent -->
+                <action android:name="cn.jpush.android.intent.REGISTRATION" />
+                <!-- Required 用户接收SDK消息的intent -->
+                <action android:name="cn.jpush.android.intent.MESSAGE_RECEIVED" />
+                <!-- Required 用户接收SDK通知栏信息的intent -->
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_RECEIVED" />
+                <!-- Required 用户打开自定义通知栏的intent -->
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_OPENED" />
+                <!-- 接收网络变化 连接/断开 since 1.6.3 -->
+                <action android:name="cn.jpush.android.intent.CONNECTION" />
+
+                <category android:name="com.fanfanlicai.fanfanlicai" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.fanfanlicai.activity.invest.FanHeBuyActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.invest.FanHeBuyYxgActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.InvestActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.CashActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.ChongZhiActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.ChongZhiSuccessActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.invest.XiangMuActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.home.ZongZiChanActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.home.FanHeLiuShuiActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.home.FanWanLiuShuiActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.home.FanTongLiuShuiActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.home.ZhangHuLiuShuiActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.home.JiangJinLiuShuiActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.home.InviteFriActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.home.PingTaiShuJuActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.home.LeiJiShouYiActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.home.ZuoRiShouYiActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.home.ZongShouYiActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.home.FanJuActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.invest.FanHeRateActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name="com.fanfanlicai.activity.invest.FanWanRateActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name="com.fanfanlicai.activity.invest.FanWanRateNewActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name="com.fanfanlicai.activity.invest.FanWanBuyActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.invest.FanHeBuySuccessActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.invest.FanHeCashActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.invest.BuyShenQingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.invest.FengKongActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.invest.TuPianActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.UDSystemActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.JieSuanActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.FloatActivity" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.JiaXiPiaoActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.PageIndicatorDefaults" />
+        <activity
+            android:name="com.fanfanlicai.activity.home.DaFanActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.invest.FanTongRateActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name="com.fanfanlicai.activity.invest.FanTongBuyActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.invest.FanTongQuestionActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.invest.FanTongYuYueActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.invest.UseFanPiaoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.FanPiaoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.TiXianPiaoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.HongBaoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.invest.FanWanDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.invest.FanWanBuyNewActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.invest.BidInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.invest.YouXianGouActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.fanfanlicai.activity.invest.UseHongBaoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.VipNotLoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.VipNormalLoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.VipCoreLoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.VipHighCoreLoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.home.IntroduceActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.PageIndicatorDefaults" />
+        <activity
+            android:name="com.fanfanlicai.activity.setting.SettingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.setting.PayActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.setting.PayActivity2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.setting.PayActivity3"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.setting.AddressActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.setting.LoginFixActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.setting.CashFixActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.setting.EmailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.setting.EmailHasBindActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.setting.GestureActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.setting.MessageActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.setting.PhoneActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.setting.SettingForCePingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.home.InviteFriendDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.HelpActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.NoticeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.NoticeDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.ContactActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.TotalShouyiActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.invest.XiangMuDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.HeTongActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.HuiYuanQuanYiActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.TouZiHuiKuanActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.ZhangHuCaoZuoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.ZhanNeiXinActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.ZhanNeiXinDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.CGBindBankActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.CGBankListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.CGBankQianYueActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.CGBankNotQianYueActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.CGAuthenticationActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.CGBankQianYueResultActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.CGBankNotBindActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.CGBankChangeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.CGBankChangeForPhotoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.CGBankChangeSuccessActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.PhotoPickActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.ShuHuiActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.registerandlogin.HomeRegisterActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.registerandlogin.HomeLoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.registerandlogin.ForgetPasswordActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.registerandlogin.ScanerActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.registerandlogin.XieYiActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.setting.SetPassWordActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.setting.SetPassWordActivity2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.CashDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.home.BannerWebActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.pagers.WebviewActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.view.lockPattern.GestureCreateActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.view.lockPattern.GestureLoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.view.cunguan.ProvinceActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.view.cunguan.CityActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.home.GuanFangActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.DirectInvestDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.BidDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.my.DirectInvestLiushuiActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fanfanlicai.activity.NomalWebviewActivity"
+            android:screenOrientation="portrait" />
+
+        <!-- shareSDK添加的activity -->
+        <activity
+            android:name="com.mob.tools.MobUIShell"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
+            <intent-filter>
+                <data android:scheme="tencent1105445772" />
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <!-- 调用新浪原生SDK，需要注册的回调activity -->
+            <intent-filter>
+                <action android:name="com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!-- 微信分享回调 -->
+        <activity
+            android:name="com.fanfanlicai.fanfanlicai.wxapi.WXEntryActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!--
+ ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity android:name="com.fanfanlicai.activity.setting.PhoneChangeActivity" />
+        <!-- Rich push 核心功能 since 2.0.6 -->
+        <activity
+            android:name="cn.jpush.android.ui.PopWinActivity"
+            android:exported="false"
+            android:theme="@style/MyDialogStyle" /> <!-- Required SDK核心功能 -->
+        <activity
+            android:name="cn.jpush.android.ui.PushActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:exported="false"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="cn.jpush.android.ui.PushActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="com.fanfanlicai.fanfanlicai" />
+            </intent-filter>
+        </activity> <!-- Required  SDK核心功能 -->
+        <service
+            android:name="cn.jpush.android.service.DownloadService"
+            android:enabled="true"
+            android:exported="false" /> <!-- Required SDK 核心功能 -->
+        <!-- 可配置android:process参数将PushService放在其他进程中 -->
+        <service
+            android:name="cn.jpush.android.service.PushService"
+            android:enabled="true"
+            android:exported="false"
+            android:process=":pushcore" >
+            <intent-filter>
+                <action android:name="cn.jpush.android.intent.REGISTER" />
+                <action android:name="cn.jpush.android.intent.REPORT" />
+                <action android:name="cn.jpush.android.intent.PushService" />
+                <action android:name="cn.jpush.android.intent.PUSH_TIME" />
+            </intent-filter>
+        </service> <!-- since 1.8.0 option 可选项。用于同一设备中不同应用的JPush服务相互拉起的功能。 -->
+        <!-- 若不启用该功能可删除该组件，将不拉起其他应用也不能被其他应用拉起 -->
+        <service
+            android:name="cn.jpush.android.service.DaemonService"
+            android:enabled="true"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="cn.jpush.android.intent.DaemonService" />
+
+                <category android:name="com.fanfanlicai.fanfanlicai" />
+            </intent-filter>
+        </service> <!-- Required SDK核心功能 -->
+        <receiver
+            android:name="cn.jpush.android.service.PushReceiver"
+            android:enabled="true"
+            android:exported="false"
+            android:process=":pushcore" >
+            <intent-filter android:priority="1000" >
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY" /> <!-- Required  显示通知栏 -->
+                <category android:name="com.fanfanlicai.fanfanlicai" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.USER_PRESENT" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+            <!-- Optional -->
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver> <!-- Required SDK核心功能 -->
+        <receiver
+            android:name="cn.jpush.android.service.AlarmReceiver"
+            android:exported="false" /> <!-- Required  . Enable it you can get statistics data with channel -->
+        <meta-data
+            android:name="JPUSH_CHANNEL"
+            android:value="developer-default" />
+        <meta-data
+            android:name="JPUSH_APPKEY"
+            android:value="d005781824bcf7f298d9e454" />
+
+        <activity
+            android:name="com.qiyukf.unicorn.activity.ServiceMessageActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:icon="@drawable/ysf_action_bar_icon_transparent"
+            android:screenOrientation="portrait"
+            android:theme="@style/ysf_window_theme"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.qiyukf.nim.uikit.session.activity.WatchMessagePictureActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@style/ysf_window_theme"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.qiyukf.nim.uikit.session.activity.PickImageActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@style/ysf_window_theme"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.qiyukf.nim.uikit.common.media.picker.activity.PickerAlbumActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@style/ysf_window_theme" />
+        <activity
+            android:name="com.qiyukf.nim.uikit.common.media.picker.activity.PickerAlbumPreviewActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@style/ysf_window_theme" />
+        <activity
+            android:name="com.qiyukf.nim.uikit.common.media.picker.activity.PreviewImageFromCameraActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/ysf_input_panel_take"
+            android:screenOrientation="portrait"
+            android:theme="@style/ysf_window_theme"
+            android:windowSoftInputMode="stateHidden|adjustResize" /> <!-- 声明云信后台服务 -->
+        <service
+            android:name="com.qiyukf.nimlib.service.NimService"
+            android:process=":core" />
+        <service
+            android:name="com.qiyukf.nimlib.service.NimService$Aux"
+            android:process=":core" /> <!-- 云信SDK的监视系统启动和网络变化的广播接收器，用户开机自启动以及网络变化时候重新登录 -->
+        <receiver
+            android:name="com.qiyukf.nimlib.service.NimReceiver"
+            android:exported="false"
+            android:process=":core" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver> <!-- 云信进程间通信receiver -->
+        <receiver android:name="com.qiyukf.nimlib.service.ResponseReceiver" />
+    </application>
+
+</manifest>

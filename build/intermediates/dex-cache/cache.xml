@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_1328d9ccf086d1d43743a99284529f5d7a1e3412.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f9210f5ba642f4475daed55eebab0088a90b6844">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\cn.jiguang.sdk-jpush-3.0.0_9d461f2a514de89890a55217bbae99ba0a7de34e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\xUtils-2.6.14_8c9210d5a41d6d2f29f8d8babb99705bdc94aeed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\cn.jiguang.sdk\jcore\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a9a0fd21db5442f0ceb80a6b6a3fa1d4594b66c1">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\cn.jiguang.sdk-jcore-1.0.0_fa01fe49a45ee89a63d9373a73ddd16c38974fef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_85c21b28a7cd4ac62e18510c5a76ff815bbfa59e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_d27261e8e87cab3daba6d35433c5d1b30d958bde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\MobCommons-2016.0830.1940.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ca36dc249a46648f8c8f53ad5ee4a935e80956a8">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\MobCommons-2016.0830.1940_95fdcfaa476034faa974c19fbc856f4d2f6a562e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\cn.jiguang.sdk\jcore\1.0.0\jars\libs\jcore-android_v1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="03c320fc818ad1c01721748a557b1b6445b9de44">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\jcore-android_v1.0.0_34de830131ba0dfdb6bfa25c416294752b40c1d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\MobCommons-2016.0830.1940.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca36dc249a46648f8c8f53ad5ee4a935e80956a8">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\MobCommons-2016.0830.1940_95fdcfaa476034faa974c19fbc856f4d2f6a562e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\new_branch_cg_share\libraryIndicator\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="abaf336ed74775ad3793790b3fb6415d19ae9031">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\new_branch_cg_share-libraryIndicator-unspecified_2092c64b7d7b408a46683968afb74b4d732bbd6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\cn.jiguang.sdk\jcore\1.0.0\jars\libs\jcore-android_v1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="03c320fc818ad1c01721748a557b1b6445b9de44">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\jcore-android_v1.0.0_34de830131ba0dfdb6bfa25c416294752b40c1d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.1_6ec3a56714b0a9bc5072cb897d028b0dc28c68f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\ZxingScanner.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1db808b8db2b808e9219aaab92b0a1bd10b567ab">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\ZxingScanner_13f8d75464ccf78a301a2fd0720a22ffcc9c9e89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_8492590cb03b75ff7c24b94054d99320408eba57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\universal-image-loader-1.9.4-with-sources.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="40595dbd3e3f1b87b27e914340d0e7dfd2d5b3d3">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.4-with-sources_271878a4e128b2c3778db0eaa80a25dbdec322a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\universal-image-loader-1.9.4-with-sources.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40595dbd3e3f1b87b27e914340d0e7dfd2d5b3d3">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.4-with-sources_271878a4e128b2c3778db0eaa80a25dbdec322a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\cn.jiguang.sdk\jcore\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a9a0fd21db5442f0ceb80a6b6a3fa1d4594b66c1">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\cn.jiguang.sdk-jcore-1.0.0_fa01fe49a45ee89a63d9373a73ddd16c38974fef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_1328d9ccf086d1d43743a99284529f5d7a1e3412.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\xUtils-2.6.14_8c9210d5a41d6d2f29f8d8babb99705bdc94aeed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wenguangjun\.gradle\caches\modules-2\files-2.1\com.github.promeg\tinypinyin\1.0.0\a48301534bbc8eea481f61fa8fbdee80eca49d15\tinypinyin-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a48301534bbc8eea481f61fa8fbdee80eca49d15">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\tinypinyin-1.0.0_26ef030a692532b933821944d3635f0c00815ea6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\com.github.baserecycleradapter\library\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8fcb6c7c4efc7f9dda2271d5f86176d60e73324d">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\com.github.baserecycleradapter-library-1.1.0_c602f5db9967ed634f9b1e58b7139cfcfe5c4e3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f9210f5ba642f4475daed55eebab0088a90b6844">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\cn.jiguang.sdk-jpush-3.0.0_9d461f2a514de89890a55217bbae99ba0a7de34e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\new_branch_cg_share\libraryIndicator\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="abaf336ed74775ad3793790b3fb6415d19ae9031">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\new_branch_cg_share-libraryIndicator-unspecified_2092c64b7d7b408a46683968afb74b4d732bbd6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_d27261e8e87cab3daba6d35433c5d1b30d958bde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wenguangjun\.gradle\caches\modules-2\files-2.1\com.github.promeg\tinypinyin\1.0.0\a48301534bbc8eea481f61fa8fbdee80eca49d15\tinypinyin-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a48301534bbc8eea481f61fa8fbdee80eca49d15">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\tinypinyin-1.0.0_26ef030a692532b933821944d3635f0c00815ea6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_86ed06f212f44df919714bf2d503c04ff6cb6208.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_8492590cb03b75ff7c24b94054d99320408eba57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\ZxingScanner.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1db808b8db2b808e9219aaab92b0a1bd10b567ab">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\ZxingScanner_13f8d75464ccf78a301a2fd0720a22ffcc9c9e89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\umeng-analytics-v6.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aab9085bca0c26dcb9cb11837a5f5e22cc102a5e">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\umeng-analytics-v6.0.1_6769f0cf34be580fbb9d32a6bb3f84a5bdcc5884.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\com.github.baserecycleradapter\library\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8fcb6c7c4efc7f9dda2271d5f86176d60e73324d">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\com.github.baserecycleradapter-library-1.1.0_c602f5db9967ed634f9b1e58b7139cfcfe5c4e3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\ShareSDK-Core-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b060c818956585ebc16be9c034ba4970e5552d25">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\ShareSDK-Core-2.7.7_051e4b516eb675f1dba70cbabcfbd8dc7df0d63d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\com.qiyukf.unicorn\unicorn\2.9.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="06b0365c9e178d0c406524c08cecd17212c801d3">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\com.qiyukf.unicorn-unicorn-2.9.0_a31fdc3e4b2ee0af9c973943b57772dc59875b95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\ShareSDK-Wechat-Moments-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1029839bf5cfc4522366b1fc17eb30627fa5b431">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Moments-2.7.7_ef3b908ec8c951296f9022096d0efb968db91502.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wenguangjun\.gradle\caches\modules-2\files-2.1\com.baidu.mobstat\mtj-sdk\3.8.2.1\ccb4bc1fd3ddcac2f4c2c6676621d356eff0cd8\mtj-sdk-3.8.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ccb4bc1fd3ddcac2f4c2c6676621d356eff0cd8">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\release\mtj-sdk-3.8.2.1_b1891fdc6cbfa2439a10fbd140341127438c8f74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_affb68cc1a4e44b66944a4b2d9cd3a6650984ba8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\ShareSDK-Wechat-Favorite-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2dfc7d48951c61423eb6a536e68c36579ad61ec5">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Favorite-2.7.7_4ae8c24398021015377c05ce0d24cc17fe05b437.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_fd3b08587a706269ae8a264dc7f4985a2bf85f62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_86ed06f212f44df919714bf2d503c04ff6cb6208.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_39c0d1a62feacc630b733c5bba321d6bdfdb479d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.0.0\jars\libs\jpush-android_v3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="31a82a5c456ce4c8cf778a42a3a76f5319c7edda">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\jpush-android_v3.0.0_07fc72a9d28e3bd0e47d767c23640f3a1186ed13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_85c21b28a7cd4ac62e18510c5a76ff815bbfa59e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\ShareSDK-Wechat-Core-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7942d022e2d3d8ed7ccbaf17df22da2eeddddfff">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Core-2.7.7_8529be47af20e390018ac71dffe76089f2f574f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\ShareSDK-QZone-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="558713df8d3cc7543375e51e63a0638aeb0e2e9f">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\ShareSDK-QZone-2.7.7_302435b46a1fd918d8edcd2db6e2711d99a2a75e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\new_branch_cg_share\pullToRefresh\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="348d75431a50e1c13cc056a6019ca6b0953a60ab">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\new_branch_cg_share-pullToRefresh-unspecified_9f2f0e80cc30f8cd44bd104bc1e040d446b12eda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_dcf59038b09a1224304fa9ebe09dfc11d460d268.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="77faa9ffd189160d1e22c58fdf5eed0a9a08b816">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\volley_2eaaf21b19e8868c3b23b2c492b919d27645d131.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_83213764350792bd15c1bf84452d9a573b4eb005.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_dcf59038b09a1224304fa9ebe09dfc11d460d268.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a43cf9e271b5bc564e880a0a4be63ab9c69c97f8">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_19bd41cf1a9624a6bed695c3532c29e8deddcb3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\ShareSDK-Wechat-Moments-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1029839bf5cfc4522366b1fc17eb30627fa5b431">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Moments-2.7.7_ef3b908ec8c951296f9022096d0efb968db91502.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\ShareSDK-Wechat-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b97a04213d77372e90bbd280ad2149a0623e4e0b">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-2.7.7_aecb39143678d24b458d6c8701cb41b0e95bffa0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\new_branch_cg_share\pullToRefresh\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="348d75431a50e1c13cc056a6019ca6b0953a60ab">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\new_branch_cg_share-pullToRefresh-unspecified_9f2f0e80cc30f8cd44bd104bc1e040d446b12eda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wenguangjun\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.1\d8e711ae108185c59c17b36b3c3f11b20cf9b4d5\gson-2.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d8e711ae108185c59c17b36b3c3f11b20cf9b4d5">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\gson-2.2.1_74b90ac0eacc0ed335b7872ac39fead581ab4bb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_83213764350792bd15c1bf84452d9a573b4eb005.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_affb68cc1a4e44b66944a4b2d9cd3a6650984ba8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\com.qiyukf.unicorn\unicorn\2.9.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="06b0365c9e178d0c406524c08cecd17212c801d3">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\com.qiyukf.unicorn-unicorn-2.9.0_a31fdc3e4b2ee0af9c973943b57772dc59875b95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\utdid4all-1.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4345fa0a5a7768f2f9c86aaab7db9e2906765193">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\utdid4all-1.0.4_bda500edc9ba21710c0b7ba9426cab48a2fb5a44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\com.scwang.smartrefresh\SmartRefreshLayout\1.0.4-6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eb30d85669b7c76866db476d87221217cb29c8b9">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\com.scwang.smartrefresh-SmartRefreshLayout-1.0.4-6_bafd70631ba4adc3c0016b56d5d592572e6e369a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\ShareSDK-QQ-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5b1593b719931c6c1902ab80998b7fb5cf73e488">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\ShareSDK-QQ-2.7.7_8b5e87b0402ba2b0dc2a9706a402ed0adefa8223.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\ShareSDK-Wechat-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b97a04213d77372e90bbd280ad2149a0623e4e0b">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-2.7.7_aecb39143678d24b458d6c8701cb41b0e95bffa0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\fastjson-1.1.43.android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="55201133d499efaf33db67ece976c8e303d2de18">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\fastjson-1.1.43.android_a1332e9efb764344f03f33b342f196c47af430ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\MobTools-2016.0830.1940.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="210bf77409df74387b9df1d7987de310a2e0b145">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\MobTools-2016.0830.1940_a08efaf508ee10a5fc504265ba3ea8ac76efcf15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wenguangjun\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.1\d8e711ae108185c59c17b36b3c3f11b20cf9b4d5\gson-2.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d8e711ae108185c59c17b36b3c3f11b20cf9b4d5">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\gson-2.2.1_74b90ac0eacc0ed335b7872ac39fead581ab4bb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.0.0\jars\libs\jpush-android_v3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="31a82a5c456ce4c8cf778a42a3a76f5319c7edda">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\jpush-android_v3.0.0_07fc72a9d28e3bd0e47d767c23640f3a1186ed13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\utdid4all-1.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4345fa0a5a7768f2f9c86aaab7db9e2906765193">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\utdid4all-1.0.4_bda500edc9ba21710c0b7ba9426cab48a2fb5a44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\ShareSDK-QZone-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="558713df8d3cc7543375e51e63a0638aeb0e2e9f">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\ShareSDK-QZone-2.7.7_302435b46a1fd918d8edcd2db6e2711d99a2a75e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\fastjson-1.1.43.android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="55201133d499efaf33db67ece976c8e303d2de18">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\fastjson-1.1.43.android_a1332e9efb764344f03f33b342f196c47af430ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\ShareSDK-QQ-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5b1593b719931c6c1902ab80998b7fb5cf73e488">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\ShareSDK-QQ-2.7.7_8b5e87b0402ba2b0dc2a9706a402ed0adefa8223.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\MobTools-2016.0830.1940.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="210bf77409df74387b9df1d7987de310a2e0b145">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\MobTools-2016.0830.1940_a08efaf508ee10a5fc504265ba3ea8ac76efcf15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\umeng-analytics-v6.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aab9085bca0c26dcb9cb11837a5f5e22cc102a5e">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\umeng-analytics-v6.0.1_6769f0cf34be580fbb9d32a6bb3f84a5bdcc5884.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\ShareSDK-Core-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b060c818956585ebc16be9c034ba4970e5552d25">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\ShareSDK-Core-2.7.7_051e4b516eb675f1dba70cbabcfbd8dc7df0d63d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wenguangjun\.gradle\caches\modules-2\files-2.1\com.baidu.mobstat\mtj-sdk\3.8.2.1\ccb4bc1fd3ddcac2f4c2c6676621d356eff0cd8\mtj-sdk-3.8.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0ccb4bc1fd3ddcac2f4c2c6676621d356eff0cd8">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\mtj-sdk-3.8.2.1_b1891fdc6cbfa2439a10fbd140341127438c8f74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="77faa9ffd189160d1e22c58fdf5eed0a9a08b816">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\volley_2eaaf21b19e8868c3b23b2c492b919d27645d131.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\ShareSDK-Wechat-Favorite-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2dfc7d48951c61423eb6a536e68c36579ad61ec5">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Favorite-2.7.7_4ae8c24398021015377c05ce0d24cc17fe05b437.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.1_6ec3a56714b0a9bc5072cb897d028b0dc28c68f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a43cf9e271b5bc564e880a0a4be63ab9c69c97f8">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_19bd41cf1a9624a6bed695c3532c29e8deddcb3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_fd3b08587a706269ae8a264dc7f4985a2bf85f62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_39c0d1a62feacc630b733c5bba321d6bdfdb479d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_cg\new_branch_cg_share\fanfanlicai\libs\ShareSDK-Wechat-Core-2.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7942d022e2d3d8ed7ccbaf17df22da2eeddddfff">
+        <dex dex="E:\Android_cg\new_branch_cg_share\fanfanlicai\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Core-2.7.7_8529be47af20e390018ac71dffe76089f2f574f1.jar" />
+    </item>
+
+</items>
